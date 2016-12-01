@@ -1,0 +1,20 @@
+{
+  "name": "meetup-vuejs-testsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "install": "^0.8.2",
+    "mocha": "^3.2.0",
+    "npm": "^4.0.2",
+    "should": "^11.1.1"
+  }
+}
