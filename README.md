@@ -1,4 +1,4 @@
-# palestra-testes-js
+# palestra-vivaReal-testes-js
 Exemplos da palestra ministrada no Viva Real (01/12/2016), no meetup de VueJS sobre Testes com Javascript
 
 #Run
